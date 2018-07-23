@@ -7,3 +7,5 @@ This feature was there in Magento 1.x and is still carried on in Magento 2
 But in most cases seller doesn't want that. Even though the product is out of stock we still need to show price and available options.
 
 If your store needs that feature you can install this module.
+
+[Ref.](https://magento.stackexchange.com/questions/191431/how-to-display-configurable-product-swatches-when-product-is-out-of-stock)
